@@ -1,6 +1,6 @@
 # Sinethemba Mkhoma
 
-**Cape Town,7270 Adderley str, 8001**  
+**7270 Adderley str,Cape Town, 8001**  
 **0693721131 | [emkaymkhoma18@gmail.com](mailto:emkaymkhoma18@gmail.com)**
 
 ---

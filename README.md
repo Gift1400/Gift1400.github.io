@@ -1,7 +1,11 @@
 # Sinethemba Mkhoma
-
-**7270 Adderley str,Cape Town, 8001**  
-**0693721131 | [emkaymkhoma18@gmail.com](mailto:emkaymkhoma18@gmail.com)**
+ 
+**Phone:**0693721131**
+**Email:**[230221432@mycput.ac.za](mailto:230221432@mycput.ac.za)**
+**GitHub:** **https://github.com/Gift1400**
+**LinkedIn:**https://www.linkedin.com/in/sinethemba-mkhoma-390775351?utm_source=share_via&utm_content=profile&utm_medium=member_ios**
+**Address:**7270 Adderley str,**
+Cape Town, 8001** 
 
 ---
 
@@ -30,12 +34,11 @@ I Developed a desktop application in Python that consolidates and manages instal
 ## Education
 
 **MATRIC**  
-Tholulwazi Secondary School 2017-2022  
+Tholulwazi Secondary School, 2017-2022  
 Bachelor Pass
 
 **DIPLOMA ICT APPLICATIONS DEVELOPMENT**  
 Cape Peninsula University of Technology 2023-Current                      
-
 Expected to graduate in 2027
 
 **FRONTEND DEVELOPMENT PRACTICUM**  
@@ -63,14 +66,16 @@ Coastal Park Landfill, Muizenburg
 
 ---
 
-## Skills
+## Frameworks/Technologies
 
-- Good Communication
-- Attention to detail
-- Critical thinking and problem solving
-- Microsoft Office
-- Team player
-- Strategic Planning
+- Android Studio
+- Visual Studio Code
+- SQLite
+- vue
+- React-native
+- GitHub
+- Figma
+- InteliJIDEA
 
 ---
 
@@ -84,16 +89,18 @@ Coastal Park Landfill, Muizenburg
 
 ---
 
-## Frameworks/Technologies
+## Skills
 
-- Android Studio
-- Visual Studio Code
-- SQLite
-- vue
-- React-native
-- GitHub
-- Figma
-- InteliJIDEA
+- Good Communication
+- Attention to detail
+- Critical thinking and problem solving
+- Microsoft Office
+- Team player
+- Strategic Planning
+
+
+
+
 
 ---
 

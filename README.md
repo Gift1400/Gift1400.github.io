@@ -37,8 +37,8 @@ Bachelor Pass
 Cape Peninsula University of Technology 2023-Current 
 Expected to graduate in 2027
 
-**FRONTEND DEVELOPMENT PRACTICUM, 03/2026 - current**  
-Mayerfeld Consulting, Germany (remote)
+**FRONTEND DEVELOPMENT PRACTICUM**  
+Mayerfeld Consulting, Germany (remote), 03/2026 - current
 
 ---
 

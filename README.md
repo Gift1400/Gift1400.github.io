@@ -1,6 +1,6 @@
 # Sinethemba Mkhoma
 
-**Cape Town, UNITS ON CAPE TOWN STATION, 8001**  
+**Cape Town,7270 Adderley str, 8001**  
 **0693721131 | [emkaymkhoma18@gmail.com](mailto:emkaymkhoma18@gmail.com)**
 
 ---

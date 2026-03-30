@@ -3,7 +3,7 @@
 **Phone:** **069 372 1131** |<br> 
 **Email:** **[230221432@mycput.ac.za](mailto:230221432@mycput.ac.za)** | <br>
 **GitHub:** **https://github.com/Gift1400** |<br>
-**LinkedIn:** **https://www.linkedin.com/in/sinethemba-mkhoma-390775351?utm_source=share_via&utm_content=profile&utm_medium=member_ios** | <br>
+**LinkedIn:** **www.linkedin.com/in/sinethemba-mkhoma-390775351** | <br>
 **Address:** **7270 Adderley str,**
 **Cape Town, 8001** 
 
@@ -99,9 +99,6 @@ Coastal Park Landfill, Muizenburg
 - Strategic Planning
 
 
-
-
-
 ---
 
 ## References
@@ -114,6 +111,8 @@ HR Administrator
 Sales Representative Trainer  
 +27 60 622 5462
 
+---
+## Mock Interview Video
 
 [Sinethemba_Mkhoma_Mock_Interview.zip](https://github.com/user-attachments/files/26357351/Sinethemba_Mkhoma_Mock_Interview.zip)
 

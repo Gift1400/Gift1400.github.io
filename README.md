@@ -89,6 +89,8 @@ Coastal Park Landfill, Muizenburg
 - Android Studio
 - Visual Studio Code
 - SQLite
+- vue
+- React-native
 - GitHub
 - Figma
 - InteliJIDEA
@@ -104,3 +106,7 @@ HR Administrator
 **Julian** – Capital Growth  
 Sales Representative Trainer  
 +27 60 622 5462
+
+
+[Sinethemba_Mkhoma_Mock_Interview.zip](https://github.com/user-attachments/files/26357351/Sinethemba_Mkhoma_Mock_Interview.zip)
+

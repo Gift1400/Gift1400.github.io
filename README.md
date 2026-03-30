@@ -35,6 +35,7 @@ Bachelor Pass
 
 **DIPLOMA ICT APPLICATIONS DEVELOPMENT**  
 Cape Peninsula University of Technology 2023-Current 
+
 Expected to graduate in 2027
 
 **FRONTEND DEVELOPMENT PRACTICUM**  

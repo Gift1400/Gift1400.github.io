@@ -1,11 +1,11 @@
 # Sinethemba Mkhoma
  
-**Phone:**0693721131**
-**Email:**[230221432@mycput.ac.za](mailto:230221432@mycput.ac.za)**
-**GitHub:** **https://github.com/Gift1400**
-**LinkedIn:**https://www.linkedin.com/in/sinethemba-mkhoma-390775351?utm_source=share_via&utm_content=profile&utm_medium=member_ios**
-**Address:**7270 Adderley str,**
-Cape Town, 8001** 
+**Phone:** **069 372 1131** <br>
+**Email:** **[230221432@mycput.ac.za](mailto:230221432@mycput.ac.za)** <br>
+**GitHub:** **https://github.com/Gift1400**<br>
+**LinkedIn:** **https://www.linkedin.com/in/sinethemba-mkhoma-390775351?utm_source=share_via&utm_content=profile&utm_medium=member_ios**<br>
+**Address:** **7270 Adderley str,**
+**Cape Town, 8001** 
 
 ---
 

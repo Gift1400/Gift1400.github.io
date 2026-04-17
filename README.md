@@ -56,7 +56,7 @@
 
 | |
 |-|
-| <img width="1165" height="755" alt="Titan-product Page" src="https://github.com/user-attachments/assets/d65f05df-051f-440a-9136-137873cc72fa" /> |
+| <img width="1165" height="754" alt="titan Product page" src="https://github.com/user-attachments/assets/c0a0e9ae-0397-4183-845b-7750b1b8f474" />|
 
 
 

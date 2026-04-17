@@ -141,5 +141,11 @@
 
 ## 🎬 Mock Interview Video
 
-[Sinethemba_Mkhoma_Mock_Interview.zip](https://github.com/user-attachments/files/26357351/Sinethemba_Mkhoma_Mock_Interview.zip)
+
+
+https://github.com/user-attachments/assets/60bcf2bf-1d7b-44cc-8a76-2ddbe687f2c0
+
+
+
+
 

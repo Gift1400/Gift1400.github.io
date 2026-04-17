@@ -51,7 +51,7 @@
 |  <img width="1919" height="912" alt="mayerPracs-dashboard" src="https://github.com/user-attachments/assets/ec1ce1a0-7723-48e8-951e-8489b4b2dec1" />
   | |
 
-**Description:** A full-featured learning platform with assignment tracking, content management, recordings, schedules, and a dashboard for active/overdue tasks. Built to help students grow within a professional environment.
+**Description:** A concept of a learning platform with assignment tracking, content management, recordings, schedules, and a dashboard for active/overdue tasks. Built to help students grow within a professional environment.
 
 ---
 
@@ -64,7 +64,7 @@
 
 
 
-**Description:** A product listing page featuring the Canon EOS R5 with pricing, specifications (45MP, 8K Raw video, WiFi/Bluetooth), shipping info, warranty details, and newsletter signup. Focused on clear CTAs and responsive layout.
+**Description:** A concept of a product listing page featuring the Canon EOS R5 with pricing, specifications (45MP, 8K Raw video, WiFi/Bluetooth), shipping info, warranty details, and newsletter signup. Focused on clear CTAs and responsive layout.
 
 ---
 
@@ -77,7 +77,7 @@
  | <img width="1085" height="780" alt="Screenshot 2026-04-17 232117" src="https://github.com/user-attachments/assets/cf1871a3-c08b-49c4-9c39-3e6955fd503c" />
  |
 
-**Description:** A dual-panel platform featuring internship listings (Software Engineer, Web Designer, Android Developer, UI/UX Designer, Data Analyst) alongside a candidate profile with education, work experience, and employment analytics. Includes an activity tracker for application statuses (Pending/Rejected/Accepted).
+**Description:** A system specially designed for recruiters to be able to spot students or recent graduates with a potential to grow in a professional field.Uses a marking system used by the university to track the students with high grades.
 
 ---
 

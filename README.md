@@ -124,7 +124,7 @@
 
 - **Situation:** My portfolio needed to be live online, not just a `README` file on GitHub.
 - **Task:** Deploy the Markdown portfolio to a public website using GitHub Pages.
-- **Action:** I went to my repository **Settings > Pages**, selected the `main` branch as the source, and saved. GitHub automatically published my site at `https://gift1400.github.io/<img width="1165" height="755" alt="Titan-product Page" src="https://github.com/user-attachments/assets/fd436daa-88a0-4a5d-89e6-308af96c0dfa" />
+- **Action:** I went to my repository **Settings > Pages**, selected the `main` branch as the source, and saved. GitHub automatically published my site at `[https://gift1400.github.io/<img width="1165" height="755" alt="Titan-product Page" src="https://github.com/user-attachments/assets/fd436daa-88a0-4a5d-89e6-308af96c0dfa" />](https://gift1400.github.io/)
 `.
 - **Result:** I now have a live, hosted portfolio URL to share on job applications. The deployment was free, fast, and integrated with my existing GitHub workflow.
 

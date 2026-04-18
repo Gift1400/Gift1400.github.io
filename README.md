@@ -103,7 +103,7 @@
 
 ---
 
-## 📎 Reflections (STAR Method)
+## 📎 Reflections
 
 
 ### 🔍 Reflection on coding in Markdown

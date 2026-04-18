@@ -109,16 +109,16 @@
 ### 🔍 Reflection on coding in Markdown
 
 - **Situation:** I needed to build a digital portfolio that is clean, version-controlled, and easy for employers to read online.
-- **Task:** Write my CV and portfolio content using GitHub Flavoured Markdown (GFM).
+- **Task:** Write my CV and portfolio content using the Markdown language.
 - **Action:** I learned Markdown syntax (headings, lists, tables, badges, blockquotes, alerts) and structured my content for scannability. I used tables for education and skills, badges for contact links, and emojis for visual cues.
-- **Result:** My portfolio is now professional, responsive on any device, and can be updated directly on GitHub without needing word processors or PDFs.
+- **Result:** My portfolio is now professional, responsive on any device, and can be updated directly on GitHub.
 
 ### 🎥 Reflection on mock interview video experience
 
 - **Situation:** I had to record a mock interview to demonstrate work readiness and communication skills.
 - **Task:** Create a video answering common technical and behavioral interview questions.
-- **Action:** I prepared answers, practiced my delivery, recorded the video using a clean background and clear audio, then hosted it on YouTube (unlisted) to embed directly into my GitHub portfolio.
-- **Result:** The video shows my confidence, problem-solving approach, and professionalism. Employers can watch it instantly without downloading files.
+- **Action:** I prepared answers, practiced my delivery, recorded the video using a clean background and clear audio, then embeded it directly into my GitHub portfolio.
+- **Result:** The video shows my confidence, problem-solving approach, and professionalism.
 
 ### 🌐 Reflection on the use of GitHub Pages
 

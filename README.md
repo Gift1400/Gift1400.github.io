@@ -11,13 +11,13 @@
 
 ---
 
-## 👋 Professional Background
+## Professional Background
 
 > I am a motivated third-year ICT student specializing in **Applications Development**. I have a solid background in writing code, solving problems, and supporting IT systems. I am looking for a software development role where I can apply my programming skills to build secure, user-friendly solutions and grow within a professional environment.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | **Frameworks & Tools** | **Languages** | **Soft Skills** |
 |------------------------|---------------|------------------|
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 | Qualification | Institution | Period | Status |
 |---------------|-------------|--------|--------|
@@ -35,7 +35,7 @@
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **Sales Executive** – Capital Growth, Cape Town (07/2025 – 08/2025)  
 - Conducted face-to-face sales, identified customer needs, and provided suitable solutions.
@@ -47,34 +47,34 @@
 
 ---
 
-## 📎 Reflections
+## Reflections
 
 
-### 🔍 Reflection on coding in Markdown
+### Reflection on coding in Markdown
 
 - **Situation:** I needed to build a digital portfolio that is clean, version-controlled, and easy for employers to read online.
 - **Task:** Write my CV and portfolio content using the Markdown language.
 - **Action:** I learned Markdown syntax (headings, lists, tables, badges, blockquotes, alerts) and structured my content for scannability. I used tables for education and skills, badges for contact links, and emojis for visual cues.
 - **Result:** My portfolio is now professional, responsive on any device, and can be updated directly on GitHub.
 
-### 🎥 Reflection on mock interview video experience
+### Reflection on mock interview video experience
 
 - **Situation:** I had to record a mock interview to demonstrate work readiness and communication skills.
 - **Task:** Create a video answering common technical and behavioral interview questions.
 - **Action:** I prepared answers, practiced my delivery, recorded the video using a clean background and clear audio, then embeded it directly into my GitHub portfolio.
 - **Result:** The video shows my confidence, problem-solving approach, and professionalism.
 
-### 🌐 Reflection on the use of GitHub Pages
+### Reflection on the use of GitHub Pages
 
 - **Situation:** My portfolio needed to be live online, not just a `README` file on GitHub.
 - **Task:** Deploy the Markdown portfolio to a public website using GitHub Pages.
-- **Action:** I went to my repository **Settings > Pages**, selected the `main` branch as the source, and saved. GitHub automatically published my site at `[https://gift1400.github.io/<img width="1165" height="755" alt="Titan-product Page" src="https://github.com/user-attachments/assets/fd436daa-88a0-4a5d-89e6-308af96c0dfa" />](https://gift1400.github.io/)
+- **Action:** I went to my repository **Settings > Pages**, selected the `main` branch as the source, and saved. GitHub automatically published my site at `[https://gift1400.github.io/
 `.
 - **Result:** I now have a live, hosted portfolio URL to share on job applications. The deployment was free, fast, and integrated with my existing GitHub workflow.
 
 ---
 
-## 👥 References
+## References
 
 | Name | Position | Organization | Contact |
 |------|----------|--------------|---------|
@@ -83,7 +83,7 @@
 
 ---
 
-## 🎬 Mock Interview Video
+## Mock Interview Video
 
 
 

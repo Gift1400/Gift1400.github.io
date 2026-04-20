@@ -13,7 +13,7 @@
 
 ## Professional Background
 
-> I am a motivated third-year ICT student specializing in **Applications Development**. I have a solid background in writing code, solving problems, and supporting IT systems. I am looking for a software development role where I can apply my programming skills to build secure, user-friendly solutions and grow within a professional environment.
+I am a motivated third-year ICT student specializing in **Applications Development**. I have a solid background in writing code, solving problems, and supporting IT systems. I am looking for a software development role where I can apply my programming skills to build secure, user-friendly solutions and grow within a professional environment.
 
 ---
 

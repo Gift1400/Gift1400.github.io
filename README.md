@@ -21,7 +21,7 @@ I am a motivated third-year ICT student specializing in **Applications Developme
 
 | **Frameworks & Tools** | **Languages** | **Soft Skills** |
 |------------------------|---------------|------------------|
-| Android Studio, VS Code, SQLite, Vue, React Native, GitHub, Figma, IntelliJ IDEA | HTML/CSS, Java, Python, Kotlin, SQL | Communication, Attention to detail, Critical thinking, MS Office, Team player, Strategic planning |
+| Android Studio, VS Code, SQLite, Vue, React Native, GitHub, Figma, IntelliJ IDEA | HTML/CSS, Java,JavaScript, MySQL | Communication, Attention to detail, Critical thinking, MS Office, Team player, Strategic planning |
 
 ---
 

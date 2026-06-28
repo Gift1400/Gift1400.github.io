@@ -31,7 +31,7 @@ Third-year ICT student at CPUT, specializing in Applications Development, with h
 |---------------|-------------|--------|--------|
 | **Matric (Bachelor Pass)** | Tholulwazi Secondary School | 2017–2022 | Completed |
 | **Diploma in ICT: Applications Development** | Cape Peninsula University of Technology | 2023–Current | Expected 2027 |
-| **Frontend Development Practicum** | Mayerfeld Consulting, Germany (remote) | 03/2026–Current | In Progress |
+
 
 ---
 

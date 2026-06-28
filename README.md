@@ -13,7 +13,7 @@
 
 ## Professional Background
 
-I am a motivated third-year ICT student specializing in **Applications Development**. I have a solid background in writing code, solving problems, and supporting IT systems. I am looking for a software development role where I can apply my programming skills to build secure, user-friendly solutions and grow within a professional environment.
+Third-year ICT student at CPUT, specializing in Applications Development, with hands-on experience building web apps, and databases. Comfortable working across the full development cycle, from backend logic and database design to front-end interfaces. Looking to bring that into a real-world tech environment, whether in development, IT, or systems support
 
 ---
 

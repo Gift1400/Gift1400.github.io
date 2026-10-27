@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sinethemba Mkhoma — GoShuttle Agile Portfolio | PRP370S</title>
+    <meta name="description"
+        content="Agile portfolio for GoShuttle — a CPUT student shuttle initiative. PRP370S Project Presentation 3, October 2026." />
+    <meta property="og:title" content="Sinethemba Mkhoma — GoShuttle Agile Portfolio" />
+    <meta property="og:description"
+        content="Agile Team Charter, User Stories, Backlogs & Logbook for the GoShuttle CPUT student shuttle project." />
+    <meta property="og:image" content="assets/og-image.png" />
+    <link rel="icon" type="image/png" href="assets/logo.jpeg" />
+    <link rel="stylesheet" href="style/portfolio-style.css" />
+</head>
+
+<body>
+
+    <!-- ============ NAV ============ -->
+    <header class="nav-wrap">
+        <nav class="nav container">
+            <a href="#top" class="brand">
+                <img src="assets/logo.jpeg" alt="GoShuttle logo" class="brand-icon" />
+                <span>GoShuttle <em>Portfolio</em></span>
+            </a>
+            <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="#charter">Charter</a></li>
+                <li><a href="#stories">Stories &amp; Tasks</a></li>
+                <li><a href="#product-backlog">Product Backlog</a></li>
+                <li><a href="#sprint-backlog">Sprint Backlog</a></li>
+                <li><a href="#logbook">Logbook</a></li>
+                <li><a href="#about">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- ============ HERO ============ -->
+    <section class="hero" id="top">
+        <div class="container hero-grid">
+            <div class="hero-copy">
+                <p class="eyebrow">PRP370S · Project Presentation 3 · October 2026</p>
+                <h1>Reliable, affordable transport — <span class="accent">built Agile.</span></h1>
+                <p class="lead">
+                    I'm <strong>Sinethemba Mkhoma</strong>, the designer on <strong>GoShuttle</strong> — a
+                    CPUT student shuttle initiative partnering with Golden Arrow Bus Service. This portfolio
+                    documents our Agile journey: charter, user stories, backlogs, and reflections.
+                </p>
+                <div class="hero-actions">
+                    <a class="btn btn-primary" href="#charter">Explore the portfolio</a>
+                    <a class="btn btn-ghost" href="https://github.com/Gift1400/GoShuttle" target="_blank"
+                        rel="noopener">View the app repo ↗</a>
+                </div>
+                <ul class="hero-facts">
+                    <li><strong>4</strong> team members</li>
+                    <li><strong>14</strong> user stories</li>
+                    <li><strong>6</strong> Must-Have sprint-1 stories</li>
+                    <li><strong>41</strong> pre-registrations validated</li>
+                </ul>
+            </div>
+            <div class="hero-card">
+                <div class="hero-card-bar">
+                    <span class="dot red"></span><span class="dot amber"></span><span class="dot green"></span>
+                    <span class="hero-card-title">GoShuttle — Live Route</span>
+                </div>
+                <div class="hero-card-body">
+                    <div class="route-row"><span class="badge success">On Time</span><strong>Khayelitsha →
+                            Bellville</strong></div>
+                    <p class="meta">Departs 07:20 · 4 stops · ~45 min</p>
+                    <div class="progress"><span style="width:68%"></span></div>
+                    <p class="meta">Arriving in ~10 min · GABS-operated</p>
+                </div>
+                <div class="hero-card-foot">
+                    <span class="pill">R30 / day</span>
+                    <span class="pill">Student pass</span>
+                    <span class="pill">WhatsApp updates</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ ABOUT ============ -->
+    <section class="section" id="about">
+        <div class="container">
+            <h2 class="section-title">About this portfolio</h2>
+            <p class="section-sub-black">
+                GoShuttle is a student transport initiative formalising a partnership between CPUT and
+                Golden Arrow Bus Service (GABS) to run dedicated, subsidised bus routes from high-density
+                residential areas — Khayelitsha, Mitchells Plain, Delft, Kraaifontein — to CPUT's Bellville
+                and Cape Town campuses.
+            </p>
+            <div class="grid-3">
+                <article class="card">
+                    <h3>My role — Designer</h3>
+                    <p>I created all visual elements: the GoShuttle brand guide, logo, Figma wireframes,
+                        UI screens, charts, route maps, and presentation slides.</p>
+                </article>
+                <article class="card">
+                    <h3>The team</h3>
+                    <p><strong>Samukelisiwe Maphumulo</strong> (Writer &amp; Team Leader),
+                        <strong>Mvuyisi Mcthwa</strong> (Researcher),
+                        <strong>Kwanda Mbayise</strong> (Presenter),
+                        <strong>Sinethemba Mkhoma</strong> (Designer).
+                    </p>
+                </article>
+                <article class="card">
+                    <h3>How we worked</h3>
+                    <p>Kanban on Trello (Backlog → To Do → In Progress → Review → Done), MoSCoW
+                        prioritisation, 2-week sprints, weekly Friday reviews, and continuous user feedback
+                        from campus activation days.</p>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ 1. AGILE TEAM CHARTER ============ -->
+    <section class="section alt" id="charter">
+        <div class="container">
+            <span class="tag">01 · Evidence + Reflection</span>
+            <h2 class="section-title">Agile Team Charter</h2>
+            <p class="section-sub-white">
+                A living, co-created social contract defining our shared purpose, values, working
+                agreements and operational boundaries.
+            </p>
+
+            <div class="evidence-box">
+                <h3>Evidence</h3>
+                <div class="grid-2">
+                    <div class="card">
+                        <h4>1. Purpose &amp; Vision</h4>
+                        <p><strong>Mission:</strong> Help CPUT students who struggle with unreliable transport
+                            by providing access to dedicated buses, so they arrive on time and focus on their
+                            studies.</p>
+                        <p><strong>Success:</strong> A mapped pilot route covering ≥2 high-density pickup
+                            points with a proposed schedule, pricing model, and WhatsApp bot prototype ready for
+                            testing by end of year.</p>
+                    </div>
+                    <div class="card">
+                        <h4>2. Roles</h4>
+                        <ul class="clean">
+                            <li><strong>Sinethemba Mkhoma</strong> — Designer</li>
+                            <li><strong>Samukelisiwe Maphumulo</strong> — Writer &amp; Leader</li>
+                            <li><strong>Mvuyisi Mcthwa</strong> — Researcher</li>
+                            <li><strong>Kwanda Mbayise</strong> — Presenter</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h4>3. Ways of Working</h4>
+                        <p>Kanban via Trello. Stand-up every Monday &amp; Wednesday (15 min). Weekly team
+                            meeting every Friday. Sprint goals every two weeks.</p>
+                    </div>
+                    <div class="card">
+                        <h4>4. Working Agreements</h4>
+                        <ul class="clean">
+                            <li>Show up prepared and on time</li>
+                            <li>Respect timeboxes</li>
+                            <li>Give constructive feedback</li>
+                            <li>Raise blockers early</li>
+                            <li>Embrace changing requirements</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h4>5. Communication</h4>
+                        <p><strong>Channels:</strong> WhatsApp (quick/urgent), Email (formal), Microsoft Teams
+                            (meetings), Trello (daily progress).</p>
+                        <p><strong>Response:</strong> Urgent WhatsApp within 2 h (08:00–18:00); non-urgent
+                            within 24 h.</p>
+                    </div>
+                    <div class="card">
+                        <h4>6. Decision-Making &amp; Escalation</h4>
+                        <p>Consensus → Product Owner final decision → team vote. Deadlocks escalate to Friday
+                            meeting; if unresolved, researcher gathers data within 48 h and team revotes.</p>
+                    </div>
+                    <div class="card">
+                        <h4>7. Definition of Done</h4>
+                        <ul class="clean">
+                            <li>Code completed &amp; reviewed by the team</li>
+                            <li>Research results recorded</li>
+                            <li>Documents updated &amp; agreed</li>
+                            <li>Shared on Trello</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h4>8. Risks &amp; Constraints</h4>
+                        <p><strong>Risks:</strong> GABS may not commit without CPUT backing; survey responses
+                            below 200; WhatsApp bot needs skills beyond the team.</p>
+                        <p><strong>Constraints:</strong> No budget for incentives; Week 2–12 timeline; limited
+                            access to official CPUT student data.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="reflection-box">
+                <h3>Reflection</h3>
+                <p>
+                    Writing the charter <em>before</em> we built anything turned out to be the single most
+                    useful hour of the project. As the designer, my work depended on the others — I couldn't
+                    produce a booking screen until the writer had confirmed the four home-area options, and I
+                    couldn't export final assets until the researcher had tested pricing messages with
+                    students. The charter's "Definition of Done" and the Trello column structure meant I could
+                    always see which upstream work was <em>actually</em> ready. The biggest growth for me was
+                    learning to treat blockers as a team conversation, not a personal failure — raising them
+                    early became normal after week two, and the design sprint moved much faster as a result.
+                    On reflection, the charter is the artefact I would show a future employer first: it proves
+                    we didn't just <em>call</em> ourselves Agile, we wrote down the rules that made it true.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ 2. USER STORIES & TASKS ============ -->
+    <section class="section" id="stories">
+        <div class="container">
+            <span class="tag">02 · Evidence + Reflection</span>
+            <h2 class="section-title">User Stories &amp; Tasks</h2>
+            <p class="section-sub-black">
+                Short, simple descriptions of features written from the end-user's perspective, broken
+                into tasks.
+            </p>
+
+            <div class="evidence-box">
+                <h3>Evidence — the 14 stories we wrote</h3>
+                <div class="story-grid">
+                    <article class="story">
+                        <span class="story-id">US-01</span>
+                        <h4>As a student, I want to select my home area, so that I only see relevant routes.</h4>
+                        <p class="meta">Tasks: dropdown UI · Khayelitsha/Mitchells Plain/Delft/Kraaifontein
+                            data · persist choice</p>
+                        <span class="pill must">Must Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-02</span>
+                        <h4>As a student, I want to book a trip, so that I have a confirmed seat.</h4>
+                        <p class="meta">Tasks: select route &amp; time · confirm fare · receive confirmation</p>
+                        <span class="pill must">Must Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-03</span>
+                        <h4>As a student, I want a fare estimate, so that I can budget my NSFAS allowance.</h4>
+                        <p class="meta">Tasks: "from Rxx" display · illustrative note</p>
+                        <span class="pill must">Must Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-04</span>
+                        <h4>As a student, I want to see a live status timeline, so that I trust the service is coming.
+                        </h4>
+                        <p class="meta">Tasks: Booked → Driver assigned → En route → Arrived</p>
+                        <span class="pill must">Must Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-05</span>
+                        <h4>As a student, I want to see the Golden Arrow partnership clearly, so that I trust an
+                            unfamiliar service.</h4>
+                        <p class="meta">Tasks: GABS messaging on Home · campus activation messaging</p>
+                        <span class="pill must">Must Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-06</span>
+                        <h4>As a student, I want a WhatsApp bot for bus times, so that I don't need to install another
+                            app.</h4>
+                        <p class="meta">Tasks: message flow design · FAQ copy</p>
+                        <span class="pill must">Must Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-07</span>
+                        <h4>As a student, I want a monthly/weekly pass, so that I save money vs. per-trip taxis.</h4>
+                        <p class="meta">Tasks: pass view · top-up · purchase</p>
+                        <span class="pill should">Should Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-08</span>
+                        <h4>As a driver, I want to push my GPS location, so that students can see where the bus is.</h4>
+                        <p class="meta">Tasks: DriverTrack.vue · GPS + manual input</p>
+                        <span class="pill should">Should Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-09</span>
+                        <h4>As a student, I want a map, so that I know where the bus is right now.</h4>
+                        <p class="meta">Tasks: Leaflet map · 10s refresh · route line</p>
+                        <span class="pill should">Should Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-10</span>
+                        <h4>As a student, I want push notifications for delays, so that I'm not caught off guard.</h4>
+                        <p class="meta">Tasks: alert UI · status colour rules</p>
+                        <span class="pill could">Could Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-11</span>
+                        <h4>As an admin, I want to add routes, so that we can expand beyond the four pilot areas.</h4>
+                        <p class="meta">Tasks: admin view · route CRUD</p>
+                        <span class="pill could">Could Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-12</span>
+                        <h4>As a student, I want to rate my trip, so that quality improves over time.</h4>
+                        <p class="meta">Tasks: rating UI · feedback log</p>
+                        <span class="pill could">Could Have</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-13</span>
+                        <h4>As a student, I want dark mode, so that it's easier to use at night.</h4>
+                        <p class="meta">Tasks: theme tokens · toggle</p>
+                        <span class="pill wont">Won't Have (this sprint)</span>
+                    </article>
+                    <article class="story">
+                        <span class="story-id">US-14</span>
+                        <h4>As a student, I want multi-language support, so that non-English speakers can use it.</h4>
+                        <p class="meta">Tasks: i18n scaffold (out of scope this sprint)</p>
+                        <span class="pill wont">Won't Have (this sprint)</span>
+                    </article>
+                </div>
+            </div>
+
+            <div class="reflection-box">
+                <h3>Reflection</h3>
+                <p>
+                    The most useful story-writing lesson came from a mistake: "Book a trip" started as one
+                    broad story, and it stalled on the Trello board for days because nobody could say when it
+                    was <em>done</em>. Splitting it into three tasks (select route &amp; time → confirm fare
+                    → receive confirmation) meant I could design and test each task independently — and the
+                    "done" column finally started moving. As the designer I used the stories as a checklist
+                    for wireframes; if a story had no screen, I hadn't designed it yet. The trust story
+                    (US-05) is the one I'm most proud of, because it came directly from real student
+                    conversations on campus, not a hypothetical persona. That taught me that the best user
+                    stories are earned through contact with users, and the product gets visibly better when
+                    we let evidence, not opinions, choose the stories.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ 3. PRODUCT BACKLOG ============ -->
+    <section class="section alt" id="product-backlog">
+        <div class="container">
+            <span class="tag">03 · Evidence + Reflection</span>
+            <h2 class="section-title">Product Backlog</h2>
+            <p class="section-sub-white">
+                A prioritised list of all required work, features, bug fixes and improvements needed for
+                the product. Prioritised using MoSCoW.
+            </p>
+
+            <div class="evidence-box">
+                <h3>Evidence</h3>
+                <div class="table-wrap">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Story</th>
+                                <th>Priority</th>
+                                <th>Estimate</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Home area selector</td>
+                                <td><span class="pill must">Must</span></td>
+                                <td>3</td>
+                                <td>Done</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Book a trip (split into 3 tasks)</td>
+                                <td><span class="pill must">Must</span></td>
+                                <td>5</td>
+                                <td>Done</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Fare estimate (illustrative)</td>
+                                <td><span class="pill must">Must</span></td>
+                                <td>2</td>
+                                <td>Done</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Live status timeline</td>
+                                <td><span class="pill must">Must</span></td>
+                                <td>3</td>
+                                <td>Done</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>GABS partnership messaging</td>
+                                <td><span class="pill must">Must</span></td>
+                                <td>1</td>
+                                <td>Done</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>WhatsApp bot prototype</td>
+                                <td><span class="pill must">Must</span></td>
+                                <td>5</td>
+                                <td>In progress</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>Monthly / weekly pass</td>
+                                <td><span class="pill should">Should</span></td>
+                                <td>5</td>
+                                <td>Done (Sept)</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>Driver GPS tracker</td>
+                                <td><span class="pill should">Should</span></td>
+                                <td>5</td>
+                                <td>Done (Aug)</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>Live map (Leaflet)</td>
+                                <td><span class="pill should">Should</span></td>
+                                <td>5</td>
+                                <td>Done (Aug)</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>Delay push notifications</td>
+                                <td><span class="pill could">Could</span></td>
+                                <td>3</td>
+                                <td>Backlog</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>Admin route management</td>
+                                <td><span class="pill could">Could</span></td>
+                                <td>8</td>
+                                <td>Backlog</td>
+                            </tr>
+                            <tr>
+                                <td>12</td>
+                                <td>Trip rating</td>
+                                <td><span class="pill could">Could</span></td>
+                                <td>3</td>
+                                <td>Backlog</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>Dark mode</td>
+                                <td><span class="pill wont">Won't</span></td>
+                                <td>—</td>
+                                <td>Out of scope</td>
+                            </tr>
+                            <tr>
+                                <td>14</td>
+                                <td>Multi-language</td>
+                                <td><span class="pill wont">Won't</span></td>
+                                <td>—</td>
+                                <td>Out of scope</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="img-grid">
+                    <figure>
+                        <img src="assets/trello-board.png"
+                            alt="Trello board with Backlog, To Do, In Progress, Review, Done columns" />
+                        <figcaption>Trello board — Kanban columns, prioritised stories.</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="assets/Business-model.png" alt="GoShuttle Business Model Canvas" />
+                        <figcaption>Business Model Canvas — the strategic context that prioritised the backlog.
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+            <div class="reflection-box">
+                <h3>Reflection</h3>
+                <p>
+                    MoSCoW was the tool that kept the backlog honest. Every idea — mine included — had to earn
+                    its place by proving a student would actually use it. My own designer instinct wanted dark
+                    mode and rich motion in sprint one; the backlog said "Won't Have" and the team was right,
+                    because the real bottleneck was trust and pricing, not polish. The biggest growth for me
+                    was learning to re-prioritise with evidence: after campus activation, the ~35% willingness
+                    to pay R20+ directly reshaped which pricing stories became Must. When students told us
+                    they mainly use phones, mobile support moved from a "Should" into the September sprint
+                    immediately. The backlog became a conversation about <em>why</em> things matter, not just
+                    a list of <em>what</em> to build — and that is the mindset I'll carry into every product
+                    team I join.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ 4. SPRINT BACKLOG ============ -->
+    <section class="section" id="sprint-backlog">
+        <div class="container">
+            <span class="tag">04 · Evidence + Reflection</span>
+            <h2 class="section-title">Sprint Backlog</h2>
+            <p class="section-sub-black">
+                A real-time, actionable plan created by and for developers outlining the specific work
+                needed to achieve the sprint goal.
+            </p>
+
+            <div class="evidence-box">
+                <h3>Evidence — Sprint 1 (design sprint, 21–31 July 2026)</h3>
+                <p class="sprint-goal"><strong>Sprint goal:</strong> A clickable end-to-end prototype of
+                    Home → Route selector → Booking → Confirmation → Live Tracking, mobile-first and
+                    user-tested.</p>
+                <div class="grid-2">
+                    <div class="card">
+                        <h4>Sprint 1 tasks</h4>
+                        <ul class="checklist">
+                            <li class="done">Trello board setup + 14 user stories</li>
+                            <li class="done">MoSCoW prioritisation</li>
+                            <li class="done">Low-fi wireframes: Home, Route selector, Booking</li>
+                            <li class="done">Low-fi wireframes: Confirmation, Live Tracking</li>
+                            <li class="done">Internal walkthrough + fixes</li>
+                            <li class="done">Coded Home + Route selector</li>
+                            <li class="done">Coded Booking form + validation</li>
+                            <li class="done">Coded Tracking screen + status timeline</li>
+                            <li class="done">End-to-end flow testing</li>
+                            <li class="done">Sprint close on Trello + walkthrough video</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h4>Sprint goal tracking</h4>
+                        <div class="metric"><span>Pre-registrations</span>
+                            <div class="bar"><i style="width:82%"></i></div><b>41 / 50</b>
+                        </div>
+                        <div class="metric"><span>Willingness to pay R20+</span>
+                            <div class="bar"><i style="width:87%"></i></div><b>35% / 40%</b>
+                        </div>
+                        <div class="metric"><span>Core screens wireframed</span>
+                            <div class="bar"><i style="width:100%"></i></div><b>5 / 5</b>
+                        </div>
+                        <div class="metric"><span>Coded interface screens</span>
+                            <div class="bar"><i style="width:100%"></i></div><b>5 / 5</b>
+                        </div>
+                        <p class="meta">Two metrics were behind mid-sprint — we brought the TikTok/Instagram
+                            comparison video forward and closed the gap.</p>
+                    </div>
+                </div>
+                <h3 style="margin-top:2rem">Sprint 2 (22–26 Sept) — Pass page + feedback + mobile</h3>
+                <div class="grid-2">
+                    <div class="card">
+                        <h4>Tasks</h4>
+                        <ul class="checklist">
+                            <li class="done">Implement Pass page (view / top-up / purchase)</li>
+                            <li class="done">Feedback check-in after website review</li>
+                            <li class="done">Mobile browsing support</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h4>Outcome</h4>
+                        <p>The Pass page went live. Feedback revealed students mostly use phones — we
+                            treated mobile support as a priority, not a "later" item.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="reflection-box">
+                <h3>Reflection</h3>
+                <p>
+                    Sprint 1 taught me the difference between a plan and a <em>working</em> plan. The sprint
+                    goal — a clickable end-to-end flow — was deliberately narrow, and that focus let me finish
+                    Figma exports, then immediately switch into coded UI (Home + Booking + Tracking) and
+                    test it. When I hit the mismatch between Figma spacing and real mobile screen sizes on
+                    day one, the sprint backlog made the trade-off explicit: mobile-first wins, adjust the
+                    code, not the plan. The mid-sprint check-in mattered most: we were behind on two metrics
+                    and instead of pushing on blindly we pulled the social-media comparison video forward.
+                    That was the first time I saw "changing the plan" as Agile success rather than failure.
+                    Sprint 2 then showed the opposite lesson — a sprint that starts small (Pass page +
+                    feedback + mobile) closes cleanly, and the feedback that came out of it (mobile support)
+                    produced the most visible product change of the whole project.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ 5. AGILE LOGBOOK ============ -->
+    <section class="section alt" id="logbook">
+        <div class="container">
+            <span class="tag">05 · Evidence + Reflection</span>
+            <h2 class="section-title">Agile Logbook</h2>
+            <p class="section-sub">
+                Daily stand-up, sprint plans, retrospective notes and the decisions that shaped the product.
+            </p>
+
+            <div class="evidence-box">
+                <h3>Evidence — weekly cycles</h3>
+
+                <details class="log" open>
+                    <summary><strong>Week 1 · 04–07 July 2026</strong> — Business Model foundation + logo</summary>
+                    <p><strong>Focus:</strong> Draft Business Model Canvas, explore logo directions, outline
+                        solution architecture, convert redesign HTML to semantic HTML.</p>
+                    <p><strong>Blockers:</strong> Logo concepts were too generic → decided not to force a
+                        final choice on day one. Architecture uncertainty → kept the build frontend-focused and
+                        documented future integration points.</p>
+                    <p><strong>Reflection:</strong> Starting with the business model first clarified who we
+                        served; that clarity later shaped the MVP messaging.</p>
+                </details>
+
+                <details class="log">
+                    <summary><strong>Week 2 · 14–17 July 2026</strong> — MVP launch &amp; campus activation</summary>
+                    <p><strong>Planned:</strong> WhatsApp flyer, 4-question Google Form, 10 target groups, campus table.
+                    </p>
+                    <p><strong>Actual:</strong> 8/10 groups confirmed; 120+ flyers; 41 pre-registrations by 17 July.</p>
+                    <p><strong>Blockers:</strong> Two WhatsApp admins hadn't approved access → launched with 8 and added
+                        later. Trust scepticism → leading with the Golden Arrow partnership visibly improved openness.
+                    </p>
+                    <p><strong>Reflection:</strong> Gatekeeper approvals need lead time. Partner messaging outperformed
+                        feature messaging. Adjusted plan mid-cycle (brought social-media forward) instead of waiting
+                        passively.</p>
+                </details>
+
+                <details class="log">
+                    <summary><strong>Week 3 · 21–24 July 2026</strong> — Trello + Figma wireframes</summary>
+                    <p><strong>Planned:</strong> Board setup, 14 stories, MoSCoW, low-fi wireframes.</p>
+                    <p><strong>Actual:</strong> 6 Must-Have stories defined; 5 core screens wireframed; internal
+                        walkthrough caught navigation and trust issues on the same day.</p>
+                    <p><strong>Blockers:</strong> "Book a trip" too broad → split into three cards. Tracking screen felt
+                        sparse → added a status timeline.</p>
+                    <p><strong>Reflection:</strong> Same-day walkthrough caught problems while they were cheap to fix.
+                    </p>
+                </details>
+
+                <details class="log">
+                    <summary><strong>Week 4 · 28–31 July 2026</strong> — Coded interface + sprint close</summary>
+                    <p><strong>Planned:</strong> Polish Figma, code Home/Booking/Tracking, close sprint.</p>
+                    <p><strong>Actual:</strong> Home, Route selector, Booking and Tracking all coded; end-to-end flow
+                        tested; walkthrough video recorded; all cards in Done.</p>
+                    <p><strong>Blockers:</strong> Figma spacing vs. real mobile → mobile-first wins. Map integration out
+                        of scope → static map placeholder + "live tracking coming soon".</p>
+                    <p><strong>Reflection:</strong> Closing the sprint properly on Trello made hand-off to testing
+                        straightforward. Reusing status language from Figma saved time.</p>
+                </details>
+
+                <details class="log">
+                    <summary><strong>August 2026</strong> — Architecture pivot, Supabase, live tracking</summary>
+                    <p><strong>Focus:</strong> ERD implementation in four packages; hosting constraint forced a pivot
+                        from Spring Boot to Supabase.</p>
+                    <p><strong>Actual:</strong> Campus, User, Route, Stop, Bus, Driver, LiveTrip, Pass tables created.
+                        Registration → live tracking path working. TrackView.vue with Leaflet refreshes every 10 s.</p>
+                    <p><strong>Blockers:</strong> GitHub Pages can't run Java; UUID/bigint type mismatches; LiveTrip
+                        schema gaps; GPS unreliable in demos → dual GPS + manual input.</p>
+                    <p><strong>Reflection:</strong> Hosting constraints must be validated before locking backend tech.
+                        Iterative schema refinement is Agile behaviour, not failure.</p>
+                </details>
+
+                <details class="log">
+                    <summary><strong>September 2026</strong> — Supabase integration, Pass page, mobile feedback
+                    </summary>
+                    <p><strong>Focus:</strong> Connect backend to frontend; update tracking with map; Pass page; mobile
+                        support.</p>
+                    <p><strong>Actual:</strong> All main pages read/write live data. Dashboard gained live bus tracking.
+                        Pass page supports view/top-up/purchase. Feedback check-in revealed students mostly use phones →
+                        mobile support implemented before October.</p>
+                    <p><strong>Reflection:</strong> Testing with real users gave us the most important change of the
+                        month — mobile support — which we would never have found ourselves.</p>
+                </details>
+            </div>
+
+            <div class="reflection-box">
+                <h3>Reflection</h3>
+                <p>
+                    Reading the logbook back, I can see my own growth in three phases. In July I was learning
+                    to <em>finish</em> things — closing a Trello sprint properly, not just leaving working
+                    files open. In August I learned to <em>adapt</em> — the Spring Boot to Supabase pivot
+                    would have derailed a rigid team, but because our logbook showed every decision and
+                    blocker, the team could move on without losing trust. In September I learned to
+                    <em>listen</em> — the feedback session produced mobile support, the most visible product
+                    change of the year, and it wasn't in anyone's original plan. The logbook is the artefact
+                    that proves this wasn't Agile theatre: every week has a plan, an actual, a blocker and a
+                    reflection, and every reflection is followed by a concrete change in the next sprint.
+                    That discipline — write it down, reflect, adjust — is the professional habit I am taking
+                    with me from PRP370S.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ FOOTER ============ -->
+    <footer class="footer">
+        <div class="container footer-grid">
+            <div>
+                <img src="assets/logo.jpeg" alt="GoShuttle logo" class="footer-logo" />
+                <p class="footer-meta">GoShuttle — Reliable · Affordable · Built for students.</p>
+            </div>
+            <div>
+                <h4>Student</h4>
+                <p class="footer-meta">Sinethemba Mkhoma<br />Student no. 230221432<br />Designer</p>
+            </div>
+            <div>
+                <h4>Assessment</h4>
+                <p class="footer-meta">PRP370S — Project Presentation 3<br />October 2026 · CPUT<br />Faculty:
+                    Informatics and
+                    Design</p>
+            </div>
+            <div>
+                <h4>Links</h4>
+                <ul class="clean footer-links">
+                    <li><a href="https://github.com/Gift1400/GoShuttle" target="_blank" rel="noopener">App repo ↗</a>
+                    </li>
+                    <li><a href="https://gift1400.github.io/GoShuttle/" target="_blank" rel="noopener">Live app ↗</a>
+                    </li>
+                    <li><a href="#top">Back to top ↑</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="copyright-footer-meta">
+            <p>© 2026 Sinethemba Mkhoma · GoShuttle. Built with plain HTML/CSS/JS for GitHub Pages.</p>
+        </div>
+    </footer>
+
+    <script src="script/portfolio-script.js"></script>
+</body>
+
+</html>
